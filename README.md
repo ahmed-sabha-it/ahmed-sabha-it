@@ -69,7 +69,7 @@ Here are some of my key projects:
   <a href="mailto:ahmedsabhawork@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
   </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
+  <a href="https://facebook.com/ahmedit22" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook"/>
   </a>
 </p>
